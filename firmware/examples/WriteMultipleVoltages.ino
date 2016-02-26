@@ -13,7 +13,7 @@
 */
 
 #ifdef SPARK
-	#include "ThingSpeak/ThingSpeak.h"
+	#include "ProbeCube_ThingSpeak/ProbeCube_ThingSpeak.h"
 #else
 	#include "ThingSpeak.h"
 #endif
