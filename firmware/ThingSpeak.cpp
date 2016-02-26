@@ -9,5 +9,5 @@
   See the accompaning licence file for licensing information.
 */
 
-#include "ThingSpeak.h"
+#include "ProbeCube_ThingSpeak.h"
 ThingSpeakClass ThingSpeak;
